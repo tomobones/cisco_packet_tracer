@@ -5,3 +5,5 @@
 - 003.pkt basic routing configs: static routing entries, default routes
 - 004.pkt implementing floating static route
 - 005.pkt playing with ping command
+- 006.pkt playing with traceroute command
+- 007.pkt loop in routing tables (r2 and r3) to be discovered by traceroute
