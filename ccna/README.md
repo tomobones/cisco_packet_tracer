@@ -11,4 +11,6 @@
 - `009.pkt` vlan - config and test trunking
 - `010.pkt` voip voice over ip
 - `011.pkt` vtp - vlan trunking protocol
-- `012.pkt` several solutions for routing in between vlans
+- `012a.pkt` vlan routing (physical)
+- `012b.pkt` vlan routing (router-on-a-stick, via logical subinterfaces)
+- `012c.pkt` vlan routing (multilayer-switch)
