@@ -14,3 +14,7 @@
 - `012a.pkt` vlan routing (physical)
 - `012b.pkt` vlan routing (router-on-a-stick, via logical subinterfaces)
 - `012c.pkt` vlan routing (multilayer-switch)
+- `013.pkt` simple ospf setting
+- `014.pkt` ospf dr and bdr selection
+- `015.pkt` ospf neighbor states
+- `016.pkt` ospf costs
