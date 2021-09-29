@@ -18,3 +18,5 @@
 - `014.pkt` ospf dr and bdr selection
 - `015.pkt` ospf neighbor states
 - `016.pkt` ospf costs
+- `017a.pkt` multi area ospf experimental
+- `017b.pkt` multi area ospf ready
