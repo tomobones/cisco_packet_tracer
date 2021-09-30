@@ -21,3 +21,4 @@
 - `017a.pkt` multi area ospf experimental
 - `017b.pkt` multi area ospf ready
 - `018.pkt` spanning tree protocol
+- `019.pkt` config of PVST, route bridge, set prios in bridge ID
