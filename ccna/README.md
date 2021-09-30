@@ -23,3 +23,5 @@
 - `018.pkt` spanning tree protocol
 - `019.pkt` config of PVST, route bridge, set prios in bridge ID
 - `020.pkt` config of RST, rapid PVST
+- `021.pkt` config for Layer2 etherchannel
+- `022.pkt` config for Layer2 etherchannel
