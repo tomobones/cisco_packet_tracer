@@ -20,3 +20,4 @@
 - `016.pkt` ospf costs
 - `017a.pkt` multi area ospf experimental
 - `017b.pkt` multi area ospf ready
+- `018.pkt` spanning tree protocol
