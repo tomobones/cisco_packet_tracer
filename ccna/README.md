@@ -26,3 +26,4 @@
 - `021.pkt` config for Layer2 etherchannel
 - `022.pkt` config for Layer2 etherchannel
 - `023.pkt` summary of etherchannel, show-commands
+- `024.pkt` config for DHCP server
