@@ -29,3 +29,4 @@
 - `024.pkt` config for DHCP server
 - `025.pkt` config for DNS server
 - `026.pkt` config for NTP clients and server
+- `027.pkt` config for syslog
