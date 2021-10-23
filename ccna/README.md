@@ -31,3 +31,4 @@
 - `026.pkt` config for NTP clients and server
 - `027.pkt` config for syslog
 - `028.pkt` ACLs config/modification/bounding
+- `029.pkt` WAN DTE-DCE Connection
