@@ -34,3 +34,5 @@
 - `029.pkt` WAN DTE-DCE Connection
 - `030.pkt` WAN IPsec VPN
 - `031.pkt` WAN GRE over IPsec VPN
+- `032.pkt` QoS example part 1
+- `033.pkt` QoS example part 2
