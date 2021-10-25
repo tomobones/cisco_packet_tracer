@@ -32,3 +32,5 @@
 - `027.pkt` config for syslog
 - `028.pkt` ACLs config/modification/bounding
 - `029.pkt` WAN DTE-DCE Connection
+- `030.pkt` WAN IPsec VPN
+- `031.pkt` WAN GRE over IPsec VPN
