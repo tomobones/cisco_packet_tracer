@@ -36,3 +36,6 @@
 - `031.pkt` WAN GRE over IPsec VPN
 - `032.pkt` QoS example part 1
 - `033.pkt` QoS example part 2
+- `034.pkt` WLAN setup
+- `035.pkt` IPv6 setup
+
