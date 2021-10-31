@@ -38,4 +38,5 @@
 - `033.pkt` QoS example part 2
 - `034.pkt` WLAN setup
 - `035.pkt` IPv6 setup
+- `036.pkt` Managing Cisco Systems
 
